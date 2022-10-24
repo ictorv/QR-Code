@@ -28,7 +28,7 @@ Here:
 ## Possible changes ⚡
 
 Some of the basic possible changes-
-1. Addition of command line for accepting
+1. Addition of command line for accepting link
 2. Conversion of svg to jpg file
 3. Input from user about name of generated file
 
